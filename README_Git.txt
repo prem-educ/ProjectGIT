@@ -22,7 +22,7 @@ Dans la branche master :
 		cd 'C:\4SRC'
 -> On peut maintenant lancer le script avec la touche F5.
 
-
+Dans la branche main :
 
 3 - Script pour afficher si un nombre est pair ou impair
 
