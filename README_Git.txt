@@ -1,12 +1,17 @@
                               README : Git 
 -----------------------------------------------------------------------
 
+Lien : https://github.com/prem-educ/ProjectGIT.git
+
+Dans la branche main :
+
 1 - Script pour afficher la liste des nombres premiers entre 1 et 100 000.
 
--> Télécharger le fichier "script.py"
+-> Télécharger le fichier "scriptnumbers.py"
 -> Utilisez un compilateur Python en ligne ou logiciel comme Visual Studio Code 
 -> Ouvrir le fichier et exécuter le script.
 
+Dans la branche master :
 
 2 - Script pour cloner un repository GitHub en local.
 
@@ -18,4 +23,11 @@
 -> On peut maintenant lancer le script avec la touche F5.
 
 
+
+3 - Script pour afficher si un nombre est pair ou impair
+
+-> Télécharger le fichier 'nombrespairsimpairs.py'
+-> Utiliser un compilateur Python en ligne ou logiciel comme Visual Studio Code
+-> Ouvrir le fichier et exécuter le script.
+-> Entrez un nombre et une fois entré, ça affichera le résultat.
 
